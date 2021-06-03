@@ -73,7 +73,7 @@ namespace ListaCursos.Providers
                 courseToUpdate.Name = course.Name;
                 courseToUpdate.Description = course.Description;
                 courseToUpdate.Author = course.Author;
-                course.Uri = course.Uri;
+                courseToUpdate.Uri = course.Uri;
 
                 return Task.FromResult(true);
             }

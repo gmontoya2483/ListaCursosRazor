@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30816.121
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaCursos", "ListaCursos.csproj", "{68E39A98-885D-4FD4-BACF-0DC9C7A5BDB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListaCursos", "ListaCursos.csproj", "{68E39A98-885D-4FD4-BACF-0DC9C7A5BDB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCursos", "..\WebApiCursos\WebApiCursos.csproj", "{DD4FA6BF-AC85-484A-B59C-851525D1902C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{68E39A98-885D-4FD4-BACF-0DC9C7A5BDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68E39A98-885D-4FD4-BACF-0DC9C7A5BDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68E39A98-885D-4FD4-BACF-0DC9C7A5BDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD4FA6BF-AC85-484A-B59C-851525D1902C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD4FA6BF-AC85-484A-B59C-851525D1902C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD4FA6BF-AC85-484A-B59C-851525D1902C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD4FA6BF-AC85-484A-B59C-851525D1902C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
